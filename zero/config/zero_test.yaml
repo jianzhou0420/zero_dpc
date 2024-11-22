@@ -21,4 +21,5 @@ model:
 # PC
 trainer:
   dataset_train_path: /data/rlbench
+  dataset_val_path: /data/rlbench
   ckpt_path: /data/ckpt

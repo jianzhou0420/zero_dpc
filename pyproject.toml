@@ -28,7 +28,8 @@ classifiers = [
 dependencies = [
 "pytorch-lightning=2.4.0",
 "numpy",
-"pickle",
+"transformers",
+"h5py",
 ]
 
 [tool.setuptools]
